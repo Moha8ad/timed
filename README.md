@@ -2,6 +2,8 @@
 
 ## Descriptions
 
+Your Simple Everyday Task Manager
+
 Timed is a simple yet effective monthly calendar app developed using React. It provides users with a straightforward solution for organizing their schedules and tasks. With its clean and intuitive interface, Timed allows users to easily navigate between months and manage their appointments with ease.
 
 Users can click on any day within the calendar to add or delete tasks. Timed provides a modal window where users can input task details, such as titles and descriptions. The app ensures that tasks are pinned to their respective dates, enabling users to review and track their activities effortlessly.
